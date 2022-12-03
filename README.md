@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @lfpose
+- 👀 I’m interested in Fullstack web development, web design, AI, GODOT
+- 🌱 I’m currently learning Godot, Flutter
+- 💞️ I’m looking to collaborate on Godot, or artistic web projects
